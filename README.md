@@ -1,6 +1,8 @@
 # 43
 to run this script be sure to put all these files on a new folder and run main with python idle or any idle
 
+this script is for the https://releases.43einhalb.com/raffle-form?productBsId= just get their last string as size in profiles for raffle link, check 43einhalb instagram page.
+
 thanks for reaching this repo.
 
 how to use : 
