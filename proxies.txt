@@ -1,0 +1,3 @@
+dk2.ermes.resigame.site:19765:user:pass
+dk2.ermes.resigame.site:19764
+Local = leave empty 
